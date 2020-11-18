@@ -1,4 +1,6 @@
-public abstract class  AbstractList<E> implements  List<E>{
+package demo1;
+
+public abstract class  MyAbstractList<E> implements  List<E>{
 
     protected int size;
 

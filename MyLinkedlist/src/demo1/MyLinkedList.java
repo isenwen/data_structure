@@ -1,6 +1,6 @@
+package demo1;
 
-
-public class MyLinkedList<E> extends AbstractList<E> {
+public class MyLinkedList<E> extends MyAbstractList<E> {
 
 
     /**
