@@ -20,6 +20,6 @@ public class Main {
         list.clear();
         System.out.println("clear()清空数组: " + list);
 
-        System.out.println(Integer.MAX_VALUE - 8);
+
     }
 }
