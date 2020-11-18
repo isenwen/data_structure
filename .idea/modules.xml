@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyArray/MyArray.iml" filepath="$PROJECT_DIR$/MyArray/MyArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLinkedlist/MyLinkedlist.iml" filepath="$PROJECT_DIR$/MyLinkedlist/MyLinkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/MyStack/MyStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/数据结构.iml" filepath="$PROJECT_DIR$/数据结构.iml" />
     </modules>
   </component>
